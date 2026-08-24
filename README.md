@@ -1,10 +1,10 @@
-# 🥭 MangoSense — Mango Flower Bud & Yield Prediction System
+# MangoSense 🥭 — Mango Flower Bud & Yield Prediction System
 
 **MangoSense** is a farmer-first smart agriculture application designed to predict mango yield at an early flowering stage by synthesizing multi-sample flower bud image classification, micro-climate parameters, 15-day weather forecasts, flower-drop risk analysis, and actionable farmer recommendations.
 
 ---
 
-## 🌟 Key Product Features
+## Key Product Features
 
 - **Farmer Dashboard**: Real-time overview of expected yield (4.8–5.4 tonnes/acre), bud health (78% healthy), flower drop risk, and 15-day weather telemetry.
 - **Multi-Sample Bud Capture**: Interactive wizard allowing farmers to capture or upload multiple panicle samples across orchard canopies (North, South, East, West).
@@ -17,7 +17,7 @@
 
 ---
 
-## 📱 Mobile-First Responsive Design
+## Mobile-First Responsive Design
 
 - Fully optimized for mobile viewports (320px, 360px, 375px, 390px, 430px, 768px, 1024px, and Desktop).
 - Bottom navigation bar with safe-area support for mobile devices.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Frontend**: React 19, Vite, Tailwind CSS v4
 - **Charts & Visualizations**: Recharts
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Getting Started Locally
+## Getting Started Locally
 
 1. **Install dependencies:**
    ```bash
@@ -52,10 +52,6 @@
    ```
 
 ---
-
-## ☁️ Deployment
-
-The project is configured for one-click deployment on **Vercel** or **Netlify** with `vercel.json` included for SPA routing.
 
 ---
 
