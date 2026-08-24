@@ -85,7 +85,7 @@ export const mockRecommendationService = {
       riskScore: 38, // out of 100
       primaryDrivers: [
         'Rainfall showers predicted in 15-day window',
-        'Early hopper nymph activity observed in 2/8 samples',
+        'Early hopper nymph activity observed in 1 of 4 samples',
         'Panicle elongation healthy in 78% of canopy'
       ],
       farmerSummary: 'Farm health is currently good, with moderate attention needed on moisture regulation and pre-rain fungal prevention.'

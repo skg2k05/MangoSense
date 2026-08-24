@@ -41,7 +41,7 @@ export default function LatestAnalysisCard({
           {/* Left Flower Bud Image Container */}
           <div className="sm:col-span-5 relative group rounded-2xl overflow-hidden bg-slate-900 border border-slate-200 aspect-4/3 shadow-xs">
             <img 
-              src="https://images.unsplash.com/photo-1596755389378-c31d21fd1273?auto=format&fit=crop&w=800&q=80" 
+              src="/samples/mango_sample_1.jpg" 
               alt="Mango flower buds active panicle"
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
               onLoad={() => setImageLoaded(true)}
@@ -51,7 +51,7 @@ export default function LatestAnalysisCard({
               <div className="flex items-center justify-between">
                 <span className="bg-black/60 backdrop-blur-md text-white text-[10px] font-bold px-2 py-0.5 rounded-full flex items-center gap-1">
                   <Sparkles className="w-2.5 h-2.5 text-amber-300" />
-                  Sample #1 of 12
+                  Sample #1 of 4
                 </span>
                 <button
                   onClick={onViewDetailedClassification}
@@ -65,7 +65,7 @@ export default function LatestAnalysisCard({
               <div className="text-white">
                 <div className="text-xs font-semibold drop-shadow-sm">Alphonso Panicle</div>
                 <div className="text-[10px] text-emerald-300 flex items-center gap-1 font-medium">
-                  <CheckCircle2 className="w-3 h-3" /> 91.4% Confidence (Healthy)
+                  <CheckCircle2 className="w-3 h-3" /> 94.2% Confidence (Healthy)
                 </div>
               </div>
             </div>

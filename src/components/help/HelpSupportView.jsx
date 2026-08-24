@@ -15,7 +15,7 @@ export default function HelpSupportView() {
   const faqs = [
     {
       q: 'How many flower-bud sample photos should I take per farm?',
-      a: 'We recommend taking between 8 to 15 representative panicle photos across all 4 quadrants of your orchard (North, South, East, West canopy) to ensure an accurate farm-level health score.'
+      a: 'We recommend taking 4 representative panicle photos across all 4 quadrants of your orchard (North, South, East, West canopy) to ensure an accurate farm-level health score.'
     },
     {
       q: 'When is the best time of day to capture photos?',
