@@ -249,7 +249,7 @@ export default function YieldPredictionView({
               Mango Hopper Presence
             </div>
             <p className="text-[11px] text-slate-600 leading-relaxed">
-              Early hopper nymphs spotted on 2 of 8 sample clusters. Prompt treatment secures the upper yield band.
+              Early hopper nymphs spotted on 1 of 4 sample clusters. Prompt treatment secures the upper yield band.
             </p>
           </div>
         </div>

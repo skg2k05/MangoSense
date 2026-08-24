@@ -23,7 +23,7 @@ export default function NotificationsView({ onNavigateToRecommendations }) {
     {
       id: 2,
       title: 'Batch Bud Analysis Completed',
-      desc: '12 new sample panicles processed for Plot A. Health score recorded at 78% healthy.',
+      desc: '4 new sample panicles processed for Plot A. Health score recorded at 81% healthy.',
       time: 'Today, 09:30 AM',
       type: 'success',
       category: 'Inference Update'

@@ -420,7 +420,7 @@ export default function NewAnalysisWizard({
             <ul className="list-disc list-inside text-amber-800/90 space-y-0.5">
               <li>Capture buds from different parts of the farm (North, South, East, West canopy) for a better farm-level estimate.</li>
               <li>Take clear photos in daylight; avoid severe backlighting or blurry close-ups.</li>
-              <li>Include 8–15 representative panicles for robust statistics.</li>
+              <li>Include 4 representative panicles (North, South, East, West) for robust statistics.</li>
             </ul>
           </div>
         </div>
@@ -491,13 +491,13 @@ export default function NewAnalysisWizard({
         {/* Bottom CTA to Continue to Analysis */}
         <div className="pt-3 border-t border-slate-100 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="text-xs text-slate-500">
-            {selectedImages.length >= 8 ? (
+            {selectedImages.length >= 4 ? (
               <span className="text-emerald-700 font-semibold flex items-center gap-1">
                 <CheckCircle2 className="w-4 h-4" /> Great! {selectedImages.length} samples is optimal for yield inference.
               </span>
             ) : (
               <span className="text-amber-700 font-medium">
-                Recommendation: Add at least 6–8 samples for comprehensive estimation.
+                Recommendation: Add at least 4 samples for comprehensive estimation.
               </span>
             )}
           </div>

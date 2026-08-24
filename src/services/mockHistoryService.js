@@ -15,7 +15,7 @@ export const MOCK_HISTORY_RECORDS = [
     climateCondition: 'Favorable (29°C, 68% RH)',
     predictedYield: '4.8 – 5.4 t/acre',
     totalTonnes: '12.0 – 13.5 t',
-    sampleCount: 12,
+    sampleCount: 4,
     isDemo: true,
     keyObservation: 'Panicle elongation uniform. Moderate hopper activity detected on south perimeter.'
   },
@@ -33,7 +33,7 @@ export const MOCK_HISTORY_RECORDS = [
     climateCondition: 'Clear & Mild (27°C, 62% RH)',
     predictedYield: '5.1 – 5.6 t/acre',
     totalTonnes: '12.7 – 14.0 t',
-    sampleCount: 10,
+    sampleCount: 4,
     isDemo: true,
     keyObservation: 'Initial bud emergence phase. High vigor and zero mildew symptoms.'
   },
@@ -51,7 +51,7 @@ export const MOCK_HISTORY_RECORDS = [
     climateCondition: 'Warm Breeze (32°C, 58% RH)',
     predictedYield: '4.6 – 5.2 t/acre',
     totalTonnes: '11.5 – 13.0 t',
-    sampleCount: 8,
+    sampleCount: 4,
     isDemo: true,
     keyObservation: 'Early terminal bud swelling. Light irrigation recommended.'
   },
@@ -69,7 +69,7 @@ export const MOCK_HISTORY_RECORDS = [
     climateCondition: 'High Heat Spurt (36°C, 45% RH)',
     predictedYield: '4.2 – 4.8 t/acre',
     totalTonnes: '10.5 – 12.0 t',
-    sampleCount: 8,
+    sampleCount: 4,
     isDemo: true,
     keyObservation: 'Thermal stress observed during early bud break. Remedied by light canopy misting.'
   },
@@ -87,7 +87,7 @@ export const MOCK_HISTORY_RECORDS = [
     climateCondition: 'Partly Sunny (30°C, 65% RH)',
     predictedYield: '5.2 – 5.8 t/acre',
     totalTonnes: '15.6 – 17.4 t',
-    sampleCount: 14,
+    sampleCount: 4,
     isDemo: true,
     keyObservation: 'Kesar variety showing vigorous panicles with tight floral cluster.'
   }
