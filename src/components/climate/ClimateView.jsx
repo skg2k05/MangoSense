@@ -258,7 +258,7 @@ export default function ClimateView({ weather = CURRENT_WEATHER, forecast = FORE
               <span>Rainfall Spike Warnings</span>
             </div>
             <p className="text-xs text-amber-800 leading-relaxed">
-              Showers forecasted on 21 & 26 May may wash off pollen grains. Apply prophylactic sulphur fungicide 24h prior.
+              Showers forecasted on 27 Aug & 01 Sep may wash off pollen grains. Apply prophylactic sulphur fungicide 24h prior.
             </p>
           </div>
 

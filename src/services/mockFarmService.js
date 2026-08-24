@@ -22,7 +22,7 @@ export const MOCK_FARMS = [
         yieldUnit: 'tonnes/acre',
         flowerDropRisk: 'Moderate',
         climateRisk: 'Low – Moderate',
-        lastAnalysisDate: '18 May 2025, 09:30 AM',
+        lastAnalysisDate: '24 Aug 2026, 09:30 AM',
       },
       {
         id: 'plot-b',
@@ -36,7 +36,7 @@ export const MOCK_FARMS = [
         yieldUnit: 'tonnes/acre',
         flowerDropRisk: 'Low',
         climateRisk: 'Low',
-        lastAnalysisDate: '16 May 2025, 04:15 PM',
+        lastAnalysisDate: '22 Aug 2026, 04:15 PM',
       },
       {
         id: 'plot-c',
@@ -50,7 +50,7 @@ export const MOCK_FARMS = [
         yieldUnit: 'tonnes/acre',
         flowerDropRisk: 'High',
         climateRisk: 'Moderate',
-        lastAnalysisDate: '14 May 2025, 11:00 AM',
+        lastAnalysisDate: '20 Aug 2026, 11:00 AM',
       },
       {
         id: 'plot-d',
@@ -64,7 +64,7 @@ export const MOCK_FARMS = [
         yieldUnit: 'tonnes/acre',
         flowerDropRisk: 'Low – Moderate',
         climateRisk: 'Low',
-        lastAnalysisDate: '12 May 2025, 08:45 AM',
+        lastAnalysisDate: '18 Aug 2026, 08:45 AM',
       }
     ]
   },
@@ -89,7 +89,7 @@ export const MOCK_FARMS = [
         yieldUnit: 'tonnes/acre',
         flowerDropRisk: 'Low',
         climateRisk: 'Low – Moderate',
-        lastAnalysisDate: '17 May 2025, 10:00 AM',
+        lastAnalysisDate: '23 Aug 2026, 10:00 AM',
       }
     ]
   }

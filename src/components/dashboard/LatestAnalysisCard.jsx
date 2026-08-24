@@ -32,7 +32,7 @@ export default function LatestAnalysisCard({
             </span>
           </div>
           <span className="text-xs font-semibold text-slate-500 bg-slate-50 px-2.5 py-1 rounded-lg border border-slate-200/60">
-            18 May 2025, 09:30 AM
+            24 Aug 2026, 09:30 AM
           </span>
         </div>
 
