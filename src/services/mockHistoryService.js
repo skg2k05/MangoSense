@@ -3,7 +3,7 @@
 export const MOCK_HISTORY_RECORDS = [
   {
     id: 'hist-1',
-    date: '18 May 2025',
+    date: '24 Aug 2026',
     time: '09:30 AM',
     farmName: 'Green Valley Mango Farm',
     plot: 'Plot A',
@@ -21,7 +21,7 @@ export const MOCK_HISTORY_RECORDS = [
   },
   {
     id: 'hist-2',
-    date: '12 May 2025',
+    date: '18 Aug 2026',
     time: '10:15 AM',
     farmName: 'Green Valley Mango Farm',
     plot: 'Plot A',
@@ -39,7 +39,7 @@ export const MOCK_HISTORY_RECORDS = [
   },
   {
     id: 'hist-3',
-    date: '05 May 2025',
+    date: '11 Aug 2026',
     time: '04:00 PM',
     farmName: 'Green Valley Mango Farm',
     plot: 'Plot A',
@@ -57,7 +57,7 @@ export const MOCK_HISTORY_RECORDS = [
   },
   {
     id: 'hist-4',
-    date: '28 Apr 2025',
+    date: '04 Aug 2026',
     time: '08:45 AM',
     farmName: 'Green Valley Mango Farm',
     plot: 'Plot A',
@@ -75,7 +75,7 @@ export const MOCK_HISTORY_RECORDS = [
   },
   {
     id: 'hist-5',
-    date: '16 May 2025',
+    date: '22 Aug 2026',
     time: '02:30 PM',
     farmName: 'Green Valley Mango Farm',
     plot: 'Plot B',

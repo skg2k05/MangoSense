@@ -64,9 +64,9 @@ export const MOCK_RECOMMENDATIONS = [
     priority: 'HIGH',
     priorityColor: 'red',
     shortText: 'Monitor upcoming rainfall and temperature changes during flowering.',
-    fullExplanation: 'Forecast indicates intermittent showers on 21 & 26 May. High relative humidity combined with warm temperatures creates peak conditions for Oidium mangiferae (Powdery mildew).',
-    actionRequired: 'Apply protective spray of Wettable Sulphur 80% WP @ 2.5 g/L before the 21 May rain window.',
-    timing: 'Critical: Complete before 20 May afternoon',
+    fullExplanation: 'Forecast indicates intermittent showers on 27 Aug & 01 Sep. High relative humidity combined with warm temperatures creates peak conditions for Oidium mangiferae (Powdery mildew).',
+    actionRequired: 'Apply protective spray of Wettable Sulphur 80% WP @ 2.5 g/L before the 27 Aug rain window.',
+    timing: 'Critical: Complete before 26 Aug afternoon',
     icon: 'CloudRain',
     badge: 'HIGH PRIORITY',
     organicAlternative: 'Trichoderma harzianum bio-fungicide @ 5 ml/L.'

@@ -62,7 +62,7 @@ export default function TopBar({
               Good morning, Farmer! 👋
             </h1>
             <span className="hidden sm:inline-block px-2 py-0.5 rounded-md bg-emerald-50 text-emerald-700 text-[11px] font-semibold border border-emerald-200/60">
-              Active Season 2025
+              Active Season 2026
             </span>
           </div>
           <p className="text-[11px] sm:text-xs md:text-sm text-slate-500 font-medium truncate">

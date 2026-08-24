@@ -4,8 +4,8 @@ export const mockPredictionService = {
   getLatestPrediction: async (plotId = 'plot-a') => {
     return {
       isDemo: true,
-      predictionId: 'pred-20250518-a',
-      generatedAt: '18 May 2025, 09:30 AM',
+      predictionId: 'pred-20260824-a',
+      generatedAt: '24 Aug 2026, 09:30 AM',
       plotId: plotId,
       plotName: 'Plot A — 2.5 acres',
       variety: 'Alphonso (Hapus)',
@@ -77,11 +77,11 @@ export const mockPredictionService = {
 
       // Timeline prediction
       stageMilestones: [
-        { stage: 'Flower Bud Emergence', date: 'Late April', status: 'Completed', health: '82%' },
-        { stage: 'Panicle Elongation (Current)', date: 'Mid May', status: 'In Progress', health: '78%' },
-        { stage: 'Full Anthesis & Pollination', date: 'Late May', status: 'Upcoming', health: 'Estimated 75%' },
-        { stage: 'Fruitlet Set (Pea Stage)', date: 'Early June', status: 'Upcoming', health: 'Pending' },
-        { stage: 'Harvesting', date: 'Late July - August', status: 'Projected', health: 'Target: 5.1 t/acre' }
+        { stage: 'Flower Bud Emergence', date: 'Early August', status: 'Completed', health: '82%' },
+        { stage: 'Panicle Elongation (Current)', date: 'Late August', status: 'In Progress', health: '78%' },
+        { stage: 'Full Anthesis & Pollination', date: 'Early September', status: 'Upcoming', health: 'Estimated 75%' },
+        { stage: 'Fruitlet Set (Pea Stage)', date: 'Mid September', status: 'Upcoming', health: 'Pending' },
+        { stage: 'Harvesting', date: 'Late October - November', status: 'Projected', health: 'Target: 5.1 t/acre' }
       ]
     };
   },

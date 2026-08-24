@@ -15,7 +15,7 @@ export default function NotificationsView({ onNavigateToRecommendations }) {
     {
       id: 1,
       title: 'Rain Warning: Pre-rain protective spray needed',
-      desc: 'Showers expected on 21 May (16 mm). Protect active panicles from powdery mildew with sulphur spray before tomorrow afternoon.',
+      desc: 'Showers expected on 27 August (16 mm). Protect active panicles from powdery mildew with sulphur spray before tomorrow afternoon.',
       time: '2 hours ago',
       type: 'warning',
       category: 'Weather & Fungicide'

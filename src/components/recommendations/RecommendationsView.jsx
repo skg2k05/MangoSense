@@ -37,7 +37,7 @@ export default function RecommendationsView({ onStartNewAnalysis }) {
 
   const handleShareWhatsApp = () => {
     const text = encodeURIComponent(
-      `🌾 *MangoSense Crop Advisory (Plot A)*\n• *Overall Risk:* Moderate\n• *Top Action:* Maintain light drip irrigation & apply sulphur spray before 21 May rain.\n• *Bud Health:* 78% Healthy.\n• *Expected Yield:* 4.8 - 5.4 tonnes/acre.`
+      `🌾 *MangoSense Crop Advisory (Plot A)*\n• *Overall Risk:* Moderate\n• *Top Action:* Maintain light drip irrigation & apply sulphur spray before 27 Aug rain.\n• *Bud Health:* 78% Healthy.\n• *Expected Yield:* 4.8 - 5.4 tonnes/acre.`
     );
     window.open(`https://wa.me/?text=${text}`, '_blank');
   };
@@ -96,7 +96,7 @@ export default function RecommendationsView({ onStartNewAnalysis }) {
               </span>
             </div>
             <p className="text-xs text-amber-800/90 mt-1">
-              Farm health is good (78% healthy panicles), but upcoming rainfall variations on 21 & 26 May require proactive fungal prophylaxis.
+              Farm health is good (78% healthy panicles), but upcoming rainfall variations on 27 Aug & 01 Sep require proactive fungal prophylaxis.
             </p>
           </div>
         </div>

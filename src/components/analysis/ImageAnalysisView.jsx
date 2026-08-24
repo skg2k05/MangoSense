@@ -242,7 +242,7 @@ export default function ImageAnalysisView({
                     <span className="text-sky-700">Low–Moderate</span>
                   </div>
                   <p className="text-[11px] text-slate-500 mt-0.5">
-                    Upcoming 21 & 26 May showers may cause sudden humidity swings. Light pre-rain spray recommended.
+                    Upcoming 27 Aug & 01 Sep showers may cause sudden humidity swings. Light pre-rain spray recommended.
                   </p>
                 </div>
               </div>
